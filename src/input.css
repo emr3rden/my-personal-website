@@ -19,3 +19,44 @@
         @apply transition hover:text-link-hover-color active:text-link-hover-color
     }
 }
+
+@layer utilities {
+
+    .container-padding-header {
+        padding-top: 90px;
+        padding-bottom: 50px;
+    }
+    
+    .container-padding-2xl {
+        padding: 100px;
+    }
+
+    
+
+    .socials-icon-md {
+        width: 24px;
+        height: 24px;
+    }
+
+    .socials-icon {
+        width: 22px;
+        height: 22px;
+    }
+
+
+
+    .header-informations-icon-md {
+        margin-bottom: 3px;
+
+        width: 18px;
+        height: 18px;
+    }
+
+    .header-informations-icon {
+        margin-bottom: 3px;
+
+        width: 16px;
+        height: 16px;
+    }
+
+}
