@@ -13,3 +13,9 @@
     }
     
 }
+
+@layer components {
+    .link-hover {
+        @apply transition hover:text-link-hover-color active:text-link-hover-color
+    }
+}
