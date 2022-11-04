@@ -416,7 +416,8 @@ video {
   display: none;
 }
 
-a:hover, a:active {
+a:hover,
+  a:active {
   text-decoration-line: underline;
 }
 
