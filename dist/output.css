@@ -860,6 +860,10 @@ svg {
   margin-bottom: 15px;
 }
 
+.mb-\[2px\] {
+  margin-bottom: 2px;
+}
+
 .mb-1 {
   margin-bottom: 0.25rem;
 }
